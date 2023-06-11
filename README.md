@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fakhri Amin
 ===================================================================================================================================
 
-Unity Game Developer | Game Programmer
+Unity Game Programmer | Game Developer | Graphic Designer
 --------------------------------------
 
-Self-motivated individual with a passion for gaming industries and technology. Easy to work with. Have a sense of high concern and curiosity. I am a game developer with more than 4 years experience making games. I have skills in graphic design and proficient in graphic design software such as Adobe Illustrator. I am committed to continuously learning and growing in the rapidly evolving gaming industry. I am always ready to expand my skills and open to new challenges in game development.
+I'm a self-motivated individual with a passion for gaming industries and technology. Easy to work with. Have a sense of high concern and curiosity. I am a game developer with more than 4 years experience making games. I have skills in graphic design and proficient in graphic design software such as Adobe Illustrator. I am committed to continuously learning and growing in the rapidly evolving gaming industry. I am always ready to expand my skills and open to new challenges in game development.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fakhriamin0506@gmail.com](mailto:fakhriamin0506@gmail.com)
