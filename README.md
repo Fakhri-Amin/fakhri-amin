@@ -7,9 +7,9 @@ A Passioante Game Programmer from Indonesia
 I'm a self-motivated individual with a passion for gaming industries and technology. Easy to work with. Have a sense of high concern and curiosity. I am a game developer with more than 4 years experience making games. I have skills in graphic design and proficient in graphic design software such as Adobe Illustrator. I am committed to continuously learning and growing in the rapidly evolving gaming industry. I am always ready to expand my skills and open to new challenges in game development.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [fakhriamin0506@gmail.com](mailto:fakhriamin0506@gmail.com)
-* 🧠  All of my projects are available at https://farou.itch.io/
 * 🤝  I'm open to collaborating on Interesting Game Projects
+* 🧠  All of my projects are available at https://farou.itch.io/
+* ✉️  You can contact me at [fakhriamin0506@gmail.com](mailto:fakhriamin0506@gmail.com)
 
 ### Skills
 
