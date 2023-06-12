@@ -36,4 +36,4 @@ I'm a self-motivated individual with a passion for gaming industries and technol
 
 ### Badges
 
-<a href="https://github.com/fakhri-amin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhri-amin&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhri-amin&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="fakhri-amin" /></p>
