@@ -8,7 +8,7 @@ I'm a self-motivated individual with a passion for gaming industries and technol
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fakhriamin0506@gmail.com](mailto:fakhriamin0506@gmail.com)
-* 🧠  I'm learning Unity
+* 🧠  All of my projects are available at https://farou.itch.io/
 * 🤝  I'm open to collaborating on Interesting Game Projects
 
 ### Skills
