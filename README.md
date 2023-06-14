@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passioante Game Programmer from Indonesia
 --------------------------------------
 
-I'm a self-motivated individual with a passion for gaming industries and technology. Easy to work with. Have a sense of high concern and curiosity. I am a game developer with more than 4 years experience making games. I have skills in graphic design and proficient in graphic design software such as Adobe Illustrator. I am committed to continuously learning and growing in the rapidly evolving gaming industry. I am always ready to expand my skills and open to new challenges in game development.
+I'm a game programmer and self-motivated individual with a passion for gaming industries and technology. I am used to using Unity in game development. For my additional skill, I am used to using Adobe Illustrator in graphic design. I am a disciplined time person, enthusiastic at work, and ready to work under pressure. I am committed to continuously learning and growing in the rapidly evolving gaming industry and always ready to expand my skills and open to new challenges in game development.
 
 * 🌍  I'm based in Indonesia
 * 🤝  I'm open to collaborating on Interesting Game Projects
