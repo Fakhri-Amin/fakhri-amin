@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fakhri Amin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Fakhri Amin
 ===================================================================================================================================
 
-A Passioante Game Programmer from Indonesia
+A Passioante Game Developer/Programmer from Indonesia
 --------------------------------------
 
 I'm a game programmer and self-motivated individual with a passion for gaming industries and technology. I am used to using Unity in game development. For my additional skill, I am used to using Adobe Illustrator in graphic design. I am a disciplined time person, enthusiastic at work, and ready to work under pressure. I am committed to continuously learning and growing in the rapidly evolving gaming industry and always ready to expand my skills and open to new challenges in game development.
